@@ -1,0 +1,9 @@
+num1 = int(input("ponga un numero >:):"))
+num2 = int(input("ponga el segundo num >:):"))
+operacion = (input("+ sum - res * mul / div"))
+
+if operacion == "+": print(num1 + num2)  
+if operacion == "-": print(num1 - num2)
+if operacion == "/": print(num1 / num2)
+if operacion == "*": print(num1 * num2)
+    
