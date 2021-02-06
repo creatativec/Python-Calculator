@@ -5,5 +5,5 @@ operacion = str((input("+ sum - res * mul / div")))
 if operacion == '+': print(num1 + num2)  
 if operacion == '-': print(num1 - num2)
 if operacion == '/': print(num1 / num2)
-if operacion == "*": print(num1 * num2)
+if operacion == '*': print(num1 * num2)
     
